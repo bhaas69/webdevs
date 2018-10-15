@@ -1,0 +1,25 @@
+.image {
+  background-image: url('../images/volunteer-2055010_1920.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.paragraph {
+  text-align: center;
+}
+
+.heading {
+  background-image: url('../images/volunteer-2055010_1920.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.submit-button {
+  background-image: url('../images/volunteer-2055010_1920.png');
+  background-position: 50% 50%;
+  background-size: 500px 500px;
+  background-repeat: no-repeat;
+}
